@@ -1,0 +1,33 @@
+{
+  "name": "xlsx-reader.js",
+  "version": "0.0.1",
+  "authors": [
+    "Pankaj Singh <psjinx@gmail.com>"
+  ],
+  "main": "xlsx-reader.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "xlsx-reader",
+    "js-xlsx",
+    "xlsx",
+    "excel"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/psjinx/xlsx-reader.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-xlsx": "~0.8.0",
+    "angular": "~1.3.15",
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.3",
+    "lodash": "~3.7.0"
+  }
+}
